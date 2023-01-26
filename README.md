@@ -1,0 +1,1 @@
+![Screenshot](./src/screenshot/counter-view.png)
