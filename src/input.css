@@ -1,0 +1,26 @@
+*{
+  box-sizing:border-box;
+  background-color:rgb(233, 210, 184);
+}
+.outputEl{
+  display:flex;
+  justify-content:center;
+  font-size:12rem;
+  color:violet;
+}
+
+.buttons{
+  display:flex;
+  justify-content:center;
+  margin-top:-5rem;
+}
+
+.btn_custom{
+  color:#f1f1f1;
+  padding:7px 40px;
+  font-size:2rem;
+  background:violet;
+  margin:40px;
+  border:1px solid black;
+  border-radius:5px;
+}
